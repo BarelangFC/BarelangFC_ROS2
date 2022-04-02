@@ -1,0 +1,5 @@
+int64 robot1_grid_position
+int64 robot2_grid_position
+int64 robot3_grid_position
+int64 robot4_grid_position
+int64 robot5_grid_position

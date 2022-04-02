@@ -1,0 +1,10 @@
+int64 remaining
+int64 secondary_state
+int64 kick_off
+int64 state
+int64 penalty_1
+int64 penalty_2
+int64 tim_number_1
+int64 tim_number_2
+int64 player
+int64 team

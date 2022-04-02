@@ -1,0 +1,5 @@
+int64 robot1_state
+int64 robot2_state
+int64 robot3_state
+int64 robot4_state
+int64 robot5_state

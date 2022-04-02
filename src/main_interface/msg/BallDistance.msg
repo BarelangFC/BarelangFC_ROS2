@@ -1,0 +1,5 @@
+int64 robot1_dball
+int64 robot2_dball
+int64 robot3_dball
+int64 robot4_dball
+int64 robot5_dball

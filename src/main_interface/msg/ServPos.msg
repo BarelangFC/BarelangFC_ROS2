@@ -1,0 +1,12 @@
+float64 l_leg1
+float64 l_leg2
+float64 l_leg3
+float64 l_leg4
+float64 l_leg5
+float64 l_leg6
+float64 r_leg1
+float64 r_leg2
+float64 r_leg3
+float64 r_leg4
+float64 r_leg5
+float64 r_leg6

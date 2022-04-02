@@ -1,0 +1,9 @@
+bool refresh
+int64 robot_id
+int64 grid_ball
+int64 back_in
+int64 semeh
+int64 grid
+int64 state_condition
+int64 robot_status
+int64 f_ball

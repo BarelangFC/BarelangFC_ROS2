@@ -1,0 +1,5 @@
+int64 robot1_status
+int64 robot2_status
+int64 robot3_status
+int64 robot4_status
+int64 robot5_status

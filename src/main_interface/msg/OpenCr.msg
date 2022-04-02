@@ -1,0 +1,11 @@
+float64 accelero_x
+float64 accelero_y
+float64 accelero_z
+float64 gyroscope_x
+float64 gyroscope_y
+float64 gyroscope_z
+int64 roll
+int64 pitch
+int64 yaw
+int64 kill
+int64 strategy
